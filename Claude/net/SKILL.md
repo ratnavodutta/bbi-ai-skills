@@ -39,7 +39,7 @@ Operate as the incident owner or design authority across four independently invo
 
 Read [references/troubleshooting-method.md](references/troubleshooting-method.md) for the evidence model and decision structure.
 
-For a Blackbaud transit-hub (AWS/Azure) incident sourced from or discussed in Slack, read [references/blackbaud-transit-hub-channels.md](references/blackbaud-transit-hub-channels.md) to identify which channel to check and what it actually contains — resolve by channel name, never by a user's personal sidebar section/category, since that grouping is per-user and not portable.
+For a Blackbaud AWS/Azure network or cloud-migration incident sourced from or discussed in Slack, read [references/blackbaud-cloud-channels.md](references/blackbaud-cloud-channels.md) to identify which channel to check and what it actually contains — resolve by channel name, never by a user's personal sidebar section/category, since that grouping is per-user and not portable.
 
 ## Phase 2: Diagnose and resolve
 
